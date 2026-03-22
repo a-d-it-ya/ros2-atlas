@@ -1,0 +1,10 @@
+# Goal
+int32 duration_seconds
+---
+# Result
+bool success
+string final_report
+---
+# Feedback
+int32 current_step
+string status
